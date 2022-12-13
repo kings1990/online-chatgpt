@@ -10,3 +10,8 @@
 # FAQ
 1. You need an openapi account.
 2. Some countries do not support login, so you will need to go through a proxy network via **VPN**.
+
+
+
+Link:
+1.[Ip](http://ip111.cn/)
